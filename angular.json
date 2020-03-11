@@ -118,5 +118,8 @@
       }
     }
   },
-  "defaultProject": "search-bar"
+  "defaultProject": "search-bar",
+  "cli": {
+    "analytics": "ce73218f-89ef-407a-a6f9-9ff9deddc7ba"
+  }
 }
